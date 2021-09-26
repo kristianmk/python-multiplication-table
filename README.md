@@ -4,6 +4,7 @@ Simple Python program to help children learn multiplication.
 💡 Now with Philips Hue integration 💡
 
 Configure Bridge IP and light name / group name in App.py. Or disable the integration.
+
 <br/><br/>
 Demonstrates:
 * how to get input with a specific data type (integer)
