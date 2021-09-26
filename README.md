@@ -14,5 +14,6 @@ Demonstrates:
   * itertools
 * formatted output
 * basic use of exceptions
-<br/><br/>
+<br/>
+
 A lot of "industrialization" is missing, no configuration files, no GUI and so on. To keep things simple.
